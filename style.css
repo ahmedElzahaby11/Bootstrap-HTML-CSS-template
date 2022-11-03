@@ -1,0 +1,101 @@
+.btn-light{
+    border-radius: 0;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+    
+}
+.btn-primary{
+    background-color: #ff7b00;
+    border-color:#ff7b00;
+    border-radius: 0;
+    margin-right: 0.75em;
+    font-size: 0.875rem;
+    
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.btn{
+    font-weight: 500;
+}
+
+.custom-font{
+    color: white;
+    font-size: calc(1.625rem + 4.5vw);
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.custom-paragraph{
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.custom-light-button{
+    border-radius: 0;
+}
+.display-1{
+        font-size: calc(1.625rem + 4.5vw);
+        font-weight: 700;
+        line-height: 1.2
+    }
+
+    .custom-card{
+        background-color: white;
+        bottom: 20px;
+        width: 85%;        
+    }
+
+.bg-img{
+  background-image: url("/images/bg-1.jpg");
+  height: 70vh;
+  background-size: cover;
+  background-attachment: fixed;    
+}
+
+.custom-Icon{
+    background-color: #ff7b00;
+    border-radius: 50%;
+    color: white;
+    padding: 10%;
+}
+.custom-Icon-video{
+    background-color:white;
+    padding: 3%;
+    border-radius: 50%;
+    margin-left: 49%;    
+}
+
+.bg1-img{
+    background-image: url("/images/bg-3.jpg");
+    height: 70vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.custom-Icon-lab{
+    color:white;
+    font-size: 3rem !important;    
+}
+
+
+.bg-black-styling{
+    background-color: #02040f;
+}
+
+
+.custom-Icon-Footer{
+   /* background-color: white;*/
+    color:#ff7b00; 
+    border-radius: 50%;
+    font-size: 2rem;
+}
+.custom-Icon-nav{
+    font-size: 1.5rem;
+    color: gray;
+    padding: 7px;   
+}
